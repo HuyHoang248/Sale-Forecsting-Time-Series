@@ -1,1 +1,1 @@
-# Sale-Forecsting-Time-Series
+# Sale-Forecasting-Time-Series
